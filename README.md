@@ -17,8 +17,7 @@ Looking to add dynamic content, third-party data, or animation to your websites 
 - Accessing external data with AJAX
 
 ## Instructions
-- Here I got several chapter, each of them provide the chance to drill into the functions of jQuery.
-- If you need quick traning, the folder`landonhotel` may give you surprising.
-- And we put the keying code into the text file `ExampleSnippets`.   
-- 
-- Enjoy it. ^^
+Here I got several chapter, each of them provide the chance to drill into the functions of jQuery.  
+If you need quick traning, the folder`landonhotel` may give you surprising.  
+And we put the keying code into the text file `ExampleSnippets`.  
+Enjoy it. ^^
