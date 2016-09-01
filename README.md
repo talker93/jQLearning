@@ -1,5 +1,6 @@
 # jQLearning
-This is the repository for my course to learn. The full course is also available at [lynda.com](http://lynda.com).
+This is the repository for my course to learn.
+The full course is also available at [lynda.com](http://lynda.com).
 -[My Personal Website](http://jacobjiang.com)
 
 ##Course Description
